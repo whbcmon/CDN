@@ -1,0 +1,42 @@
+/* 苹方-简 极细体 */
+@font-face {
+    font-family: 'PingFangSC';
+    src: url('woff2/PingFangSC-Ultralight.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+/* 苹方-简 纤细体 */
+@font-face {
+    font-family: 'PingFangSC-Thin-woff2';
+    src: url('woff2/PingFangSC-Thin.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+/* 苹方-简 细体 */
+@font-face {
+    font-family: 'PingFangSC-Light-woff2';
+    src: url('woff2/PingFangSC-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+/* 苹方-简 常规体 */
+@font-face {
+    font-family: 'PingFangSC-Regular-woff2';
+    src: url('woff2/PingFangSC-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+/* 苹方-简 中黑体 */
+@font-face {
+    font-family: 'PingFangSC-Medium-woff2';
+    src: url('woff2/PingFangSC-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+/* 苹方-简 中粗体 */
+@font-face {
+    font-family: 'PingFangSC-Semibold-woff2';
+    src: url('woff2/PingFangSC-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
